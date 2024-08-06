@@ -1,2 +1,3 @@
-# Image_hover_animated
-A page where if i hover on any image it animated
+# Image Hover Animated
+
+Welcome to the Image Hover Animated project! This repository showcases a collection of CSS techniques for creating engaging and interactive hover effects on images. Perfect for adding some flair to your web projects.
